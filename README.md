@@ -4,9 +4,10 @@ This repository contains materials for the workshop "Python Quickstart for Quali
 
 The materials contain:
 
-- Notebooks_Exercises (Jupyter notebooks including unsolved exercises)
-- Notebooks_Solutions (Jupyter notebooks including exercises with solutions)
-- Images (images loaded in the Jupyter notebooks)
-- Data (data loaded in the Jupyter notebooks)
+- /Notebooks_Exercises (Jupyter notebooks including unsolved exercises)
+- /Notebooks_Solutions (Jupyter notebooks including exercises with solutions)
+- /Images (images loaded in the Jupyter notebooks)
+- /Data (datasets loaded in the Jupyter notebooks)
+- Data_References.txt (provides references for the datasets included in the /Data folder)
 
 Note that the provided notebooks were created with greatest care, but no guarantee can be given for the correctness of the analyses.
