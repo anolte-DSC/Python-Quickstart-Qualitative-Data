@@ -1,0 +1,4 @@
+- sample_articles_10000.json: Modified from: Misra, R. (2018): News Category Dataset – HuffPost Articles. Available at: https://www.kaggle.com/datasets/rmisra/news-category-dataset. Accessed on: 8 May 2025.
+- Titanic-Dataset.csv: Yasser, H. (2020): Titanic Dataset – Machine Learning from Disaster. Available at: https://www.kaggle.com/datasets/yasserh/titanic-dataset. Accessed on: 8 May 2025.
+- World-happiness-report-2024.csv: Jain, A. (2024): World Happiness Report – Yearly Updated (2024). Available at: https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated. Accessed on: 8 May 2025.
+- /Interviews_ClimateChange: Annika Nolte (2025)
